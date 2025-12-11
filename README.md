@@ -81,7 +81,3 @@ git clone (https://github.com/Arnab-Ghosh7/Students-Performance-Prediction-End-t
 cd Students-Performance-Prediction
 ```
 
-
-
-
-## Repository Structure
